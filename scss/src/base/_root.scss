@@ -1,0 +1,23 @@
+:root {
+  --ds-body-font-size: #{$fs-sm};
+  --ds-body-font-weight: #{$fw-normal};
+
+  --ds-h1-font-size: #{$h-1};
+  --ds-h2-font-size: #{$h-2};
+  --ds-h3-font-size: #{$h-3};
+  --ds-h4-font-size: #{$h-4};
+  --ds-h5-font-size: #{$h-5};
+  --ds-h6-font-size: #{$h-6};
+  --ds-h1-font-weight: #{$fw-bolder};
+  --ds-h2-font-weight: #{$fw-bold};
+  --ds-h3-font-weight: #{$fw-medium};
+  --ds-h4-font-weight: #{$fw-normal};
+  --ds-h5-font-weight: #{$fw-light};
+  --ds-h6-font-weight: #{$fw-light};
+
+  --ds-body-text-color: #{$dark};
+  --ds-body-bg-color: #{$white};
+  --ds-btn-primary-color: #{$blue};
+  --ds-btn-primary-bg-color: #{$green};
+  --ds-btn-primary-bg-hover-color: #{$light-green};
+}

@@ -1,0 +1,1 @@
+# monorepo-atomic-architecture
